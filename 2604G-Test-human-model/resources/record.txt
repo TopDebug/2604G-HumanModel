@@ -1,0 +1,17 @@
+
+1) 
+#OpenMesh: BUILD_APPS（UnCheck） 
+
+2)
+#https://www.python.org/downloads/ 
+#pip install aqtinstall 
+#python –version 
+
+3)
+sudo apt install meld
+meld dir1/ dir2/
+ 
+
+ 
+
+ 

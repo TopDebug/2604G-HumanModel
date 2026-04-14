@@ -1,0 +1,2 @@
+1) Tools|Depth Buffer Slider Draw
+2) Pannel Auto Hide

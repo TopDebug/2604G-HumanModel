@@ -1,0 +1,21 @@
+git clone https://github.com/g-truc/glm 
+git clone --recursive https://github.com/glfw/glfw 
+git clone https://github.com/nigels-com/glew.git
+git clone --recursive https://gitlab.vci.rwth-aachen.de:9000/OpenMesh/OpenMesh.git 
+git clone https://gitlab.com/libeigen/eigen.git 
+git clone https://github.com/ocornut/imgui 
+git clone https://gitlab.kitware.com/vtk/vtk 
+git clone --recursive https://github.com/PointCloudLibrary/pcl
+git clone https://github.com/leethomason/tinyxml2.git
+git clone https://github.com/freetype/freetype
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
